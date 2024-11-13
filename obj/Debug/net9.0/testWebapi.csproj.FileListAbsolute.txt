@@ -31,3 +31,4 @@ Y:\APIs\testWebapi\obj\Debug\net9.0\refint\testWebapi.dll
 Y:\APIs\testWebapi\obj\Debug\net9.0\testWebapi.pdb
 Y:\APIs\testWebapi\obj\Debug\net9.0\testWebapi.genruntimeconfig.cache
 Y:\APIs\testWebapi\obj\Debug\net9.0\ref\testWebapi.dll
+Y:\APIs\testWebapi\obj\Debug\net9.0\testWebapi.sourcelink.json
