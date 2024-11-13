@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QgtlDN2CCWc=",
+  "success": true,
+  "projectFilePath": "Y:\\APIs\\testWebapi\\testWebapi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia.DESKTOP-UDCT66B\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\fabia.DESKTOP-UDCT66B\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
